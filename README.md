@@ -1,6 +1,3 @@
-Here's a structured README for your `fileGen.py` script that you can use on GitHub:
-
-```markdown
 # File Generator
 
 `fileGen.py` is a Python script that generates a file of a specified size. The size can be specified in various units, including bytes (b), kilobytes (kb), megabytes (mb), and gigabytes (gb). The script creates a file filled with random data and displays the output file path.
@@ -92,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to contribute to this project by creating issues or submitting pull requests. Your contributions are welcome!
-```
+
 
 ### Adding the Script to the Repository
 Make sure your repository includes the following files:
@@ -100,7 +97,9 @@ Make sure your repository includes the following files:
 - `README.md`: The documentation file with the content above.
 - `LICENSE`: Your chosen license file (e.g., MIT License).
 
-### Example Repository Structure
+
+### Example Repository Structur
+
 ```
 file-generator/
 │
