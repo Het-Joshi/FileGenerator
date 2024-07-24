@@ -98,14 +98,12 @@ Make sure your repository includes the following files:
 - `LICENSE`: Your chosen license file (e.g., MIT License).
 
 
-### Example Repository Structur
+### Example Repository Structure
 
 ```
-file-generator/
+FileGenerator/
 │
 ├── fileGen.py
 ├── LICENSE
 └── README.md
 ```
-
-By following this structure, you'll have a well-documented repository that is easy for others to understand and use.
