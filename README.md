@@ -17,8 +17,8 @@
 1. **Clone the repository** and navigate to the directory:
 
     ```sh
-    git clone https://github.com/Het-Joshi/file-generator.git
-    cd file-generator
+    git clone https://github.com/Het-Joshi/FileGenerator.git
+    cd FileGenerator
     ```
 
 2. **Run the script** using the command:
